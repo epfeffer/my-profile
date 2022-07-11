@@ -1,6 +1,11 @@
-# Welcome to My Portfolio
+<h1 align="center">Hello :wave:! I'm Emily Pfeffer</h1>
+<h3 align="center">Software Engineer  |  Florida, USA</h3>
+<br>
 
-Hello and thank you for visiting my GitHub Work Portfolio. My name is Emily Pfeffer.
+- :train: I currently work at **[Terminus Software](https://terminus.com/)** (remote)
 
-# About Me
-I'm a recent Gator Grad who loves pretty much every aspect of business systems analysis, programming, and implementation. My hobbies include tae kwon do, kayaking, and going to the occassional baseball game.
+- :book: I'm actively working with **MySQL**, **Java**, **Convox**, and various **AWS** services including **Kubernetes**
+
+- :dog: I enjoy coding, the beach, kayaking, and quality time with my adorable dog, **[Korra](https://www.instagram.com/korra.the.gsp/)**
+
+- :email: How to reach me **emily.p.pfeffer@gmail.com**
