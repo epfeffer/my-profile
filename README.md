@@ -1,4 +1,4 @@
-<h1 align="center">Emily Pfeffer</h1>
+<h1 align="center">Emily P. Pfeffer</h1>
 <h3 align="center">Software Engineer  |  Florida, USA</h3>
 <h4 align="center">emily.p.pfeffer@gmail.com | <a href="https://www.linkedin.com/in/emilypfeffer">linkedin.com/in/emilypfeffer</a></h4>
 
