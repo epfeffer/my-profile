@@ -94,7 +94,7 @@ This University of Florida program recognizes faculty and staff members who cont
 <br>
 
 ## VOLUNTEERING
-**_Co-Chair_, Terminators for an Inclusive and Diverse Employee Experience (TIDE), Feb 2021 &ndash; Present**<br>
+**_Co-Chair, Terminators for an Inclusive and Diverse Employee Experience (TIDE)_, Feb 2021 &ndash; Present**<br>
 TIDE is Terminus’ Diversity, Equity, and Inclusion (DEI) committee. As an employee resource group, we strive to create a welcoming, safe, and inclusive workplace with a focus on Terminus’ overall culture.
 - Distribute DEI training materials to leaders and employees, such as microaggressions and unconscious bias.
 - Coordinate with HR teams to ensure all communications are inclusive and culturally sensitive.
