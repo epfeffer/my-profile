@@ -79,12 +79,18 @@
 ## AWARDS
 <table>
 	<tr>
-		<td>DRIVE Award - Most Valued Terminus Employee (FY22 Q4)</td>
+		<td><b>DRIVE Award - Most Valued Terminus Employee (FY22 Q4)</b></td>
 		<td align='right'><b>Feb 2022</b></td>
 	</tr>
 	<tr>
-		<td>UF Superior Accomplishment Award, Division 1 – Information Technology (Technical)</td>
+		<td>Terminus’ DRIVE Award is a quarterly recognition award that enables employees to recognize their peers across Terminus for exemplifying the business’ core values - Dedicated, Risk-Taking, Inventive, Valued, and Energized. These awards are meant to show appreciation for employees who truly have gone above and beyond their normal duties.<br></td>
+	</tr>
+	<tr>
+		<td><b>UF Superior Accomplishment Award, Division 1 – Information Technology (Technical)</b></td>
 		<td align='right'><b>May 2019</b></td>
+	</tr>
+	<tr>
+		<td>This University of Florida program recognizes faculty and staff members who contribute outstanding and meritorious service, efficiency and/or economy, or have created an impact on the quality of life provided to students and employees. The Superior Accomplishment Awards recognize outstanding faculty and staff for their dedication to their jobs and for going above and beyond to advance the mission of UF and serve our community overall.<br>/td>
 	</tr>
 </table>
 <br>
@@ -98,5 +104,23 @@
 	<tr>
 		<td>Information Technology Infrastructure Library (ITIL V3) Foundations</td>
 		<td align='right'><b>Jun 2017</b></td>
+	</tr>
+</table>
+<br>
+
+## VOLUNTEERING
+<table>
+	<tr>
+		<td><b><i>Co-Chair</i>, Terminators for an Inclusive and Diverse Employee Experience (TIDE)</b></td>
+		<td align='right'><b>Feb 2021 &ndash; Present</b></td>
+	</tr>
+	<tr>
+		<td>TIDE is Terminus’ Diversity, Equity, and Inclusion (DEI) committee. As an employee resource group, we strive to create a welcoming, safe, and inclusive workplace with a focus on Terminus’ overall culture.</td>
+	</tr>
+	<tr>
+		<ul>
+			<li>Distribute DEI training materials to leaders and employees, such as microaggressions and unconscious bias.</li>
+			<li>Coordinate with HR teams to ensure all communications are inclusive and culturally sensitive.</li>
+		</ul>
 	</tr>
 </table>
