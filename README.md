@@ -2,12 +2,6 @@
 <h3 align="center">Software Engineer  |  Florida, USA</h3>
 <h4 align="center">emily.p.pfeffer@gmail.com | <a href="https://www.linkedin.com/in/emilypfeffer">linkedin.com/in/emilypfeffer</a></h4>
 
-<style>
-td, th, tr {
-   border: none!important;
-}
-</style>
-
 ## PROFESSIONAL EXPERIENCE
 
 ### TERMINUS SOFTWARE, LLC
@@ -45,26 +39,8 @@ td, th, tr {
 <br>
 
 ## EDUCATION
-
-<table>
-    <tr>
-        <td>
-        <b>Master of Science in Information Systems and Operations Management</b><br>
-        University of Florida
-        </td>
-        <td align='right'><b>Dec 2019</b><br>
-        Gainesville, Florida</td>
-    </tr>
-    <tr>
-        <td>
-        <b>Bachelor of Science in Mathematics | Minor in Economics</b><br>
-        Florida Atlantic University
-        </td>
-        <td align='right'><b>May 2014</b><br>
-        Boca Raton, Florida
-        </td>
-    </tr>
-</table>
+- **_Master of Science in Information Systems and Operations Management_, Dec 2019**<br>University of Florida, Gainesville, Florida
+- **_Bachelor of Science in Mathematics | Minor in Economics_, May 2014**<br>Florida Atlantic University, Boca Raton, Florida
 
 <br>
 
