@@ -6,7 +6,7 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-### TERMINUS SOFTWARE, LLC
+### TERMINUS SOFTWARE, INC.
 
 **_Software Engineer (Backend)_, Jul 2022 &ndash; Present**<br>
 **_Manager, Data Operations_, Oct 2021 &ndash; Jul 2022**<br>
@@ -14,7 +14,7 @@
 
 - Resolved over 1K story points and 1.5K Jira tickets over 2.5 years.
 - Enhanced Terminus’ SFDC Managed Package by enabling GitHub workflows and building technical documentation for Terminus’ Engineers to troubleshoot, fix bugs, test, and deploy updates.  
-- Migrated the HubSpot Integration service’s framework from Bazelisk to Maven, migrated its language from Golang to Java, and enabled a gRPC gateway. Developed API endpoints, SQS consumers and producers, and SNS topics to better monitor, maintain, and support Terminus’ recently released Segment Builder feature. 
+- Converted the HubSpot Integration service’s framework from Bazelisk to Maven, migrated its language from Golang to Java, and enabled its gRPC gateway. Developed API endpoints, SQS consumers and producers, and SNS topics to better monitor, maintain, and support Terminus’ recently released Segment Builder feature. 
 - Removed unused S3 buckets and Transfer Family SFTP servers, reducing AWS costs by $18K+ per year. 
 - Enabled autoscaling of AWS containers for performance, scalability, and to reduce financial costs. 
 - Activated service-specific Datadog logging and Slack alerts using Terraform. 
@@ -23,9 +23,9 @@
 - Developed and maintained custom reports using Athena, MySQL, PostgreSQL, and Python. 
 
 ### UNIVERSITY OF FLORIDA INFORMATION TECHNOLOGY (UFIT)
-**_IT Business Analyst III / Team Lead_, Oct 2019 &ndash; Oct 2020**<br>
-**_IT Business Analyst II_, Jan 2018 &ndash; Oct 2019**<br>
-**_IT Analyst I_, Sept 2016 &ndash; Jan 2018**<br>
+**_IT Business Analyst 3 / Team Lead_, Oct 2019 &ndash; Oct 2020**<br>
+**_IT Business Analyst 2_, Jan 2018 &ndash; Oct 2019**<br>
+**_IT Business Analyst 1_, Sept 2016 &ndash; Jan 2018**<br>
 
 - Identified and monitored business goals, objectives, and key performance indicators for UFIT. 
 - Conducted needs analysis to identify user stories, defined the Minimum Viable Product (MVP) required, and developed documentation, including business cases for over 70% of all approved projects in FY2020.  
@@ -63,7 +63,7 @@
 	</tr>
 	<tr>
 		<th>DevOps Tools</th>
-		<td>Terraform, Kubernetes, Jenkins, GitHub, Docker, Datadog, DBeaver, Jira, Maven, Jenkins</td>
+		<td>Terraform, Kubernetes, Jenkins, GitHub, Docker, Datadog, DBeaver, Jira, Maven</td>
 	</tr>
 	<tr>
 		<th>Database</th>
@@ -84,7 +84,7 @@ Terminus’ DRIVE Award is a quarterly recognition award that enables employees 
 
 **_UF Superior Accomplishment Award, Division 1 – Information Technology (Technical)_, May 2019**
 
-This University of Florida program recognizes faculty and staff members who contribute outstanding and meritorious service, efficiency and/or economy, or have created an impact on the quality of life provided to students and employees. The Superior Accomplishment Awards recognize outstanding faculty and staff for their dedication to their jobs and for going above and beyond to advance the mission of UF and serve our community overall.<br><br>
+This University of Florida program recognizes faculty and staff members who contribute outstanding and meritorious service, efficiency and/or economy, or have created an impact on the quality of life provided to students and employees. The Superior Accomplishment Awards recognize outstanding faculty and staff for their dedication to their jobs and for going above and beyond to advance the mission of UF.<br><br>
 
 ## CERTIFICATIONS
 **_USF’s Diversity, Equity, and Inclusion (DEI) in the Workplace Certificate_, Sept 2022**
@@ -95,6 +95,6 @@ This University of Florida program recognizes faculty and staff members who cont
 
 ## VOLUNTEERING
 **_Co-Chair, Terminators for an Inclusive and Diverse Employee Experience (TIDE)_, Feb 2021 &ndash; Present**<br>
-TIDE is Terminus’ Diversity, Equity, and Inclusion (DEI) committee. As an employee resource group, we strive to create a welcoming, safe, and inclusive workplace with a focus on Terminus’ overall culture.
+TIDE is Terminus’ Diversity, Equity, and Inclusion (DEI) employee resource group, which strives to create a welcoming, safe, and inclusive workplace with a focus on Terminus’ overall culture.
 - Distribute DEI training materials to leaders and employees, such as microaggressions and unconscious bias.
 - Coordinate with HR teams to ensure all communications are inclusive and culturally sensitive.
