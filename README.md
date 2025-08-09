@@ -6,9 +6,9 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-### TERMINUS SOFTWARE, INC.
-
-**_Software Engineer (Backend)_, Jul 2022 &ndash; Present**<br>
+### TERMINUS (BY DEMANDSCIENCE)
+**_Software Engineering Team Lead_, Feb 2025 &ndash; Present**<br>
+**_Software Engineer (Backend)_, Jul 2022 &ndash; Feb 2025**<br>
 **_Manager, Data Operations_, Oct 2021 &ndash; Jul 2022**<br>
 **_Data Operations Engineer_, Oct 2020 &ndash; Oct 2021**<br>
 
@@ -94,7 +94,7 @@ This University of Florida program recognizes faculty and staff members who cont
 <br>
 
 ## VOLUNTEERING
-**_Co-Chair, Terminators for an Inclusive and Diverse Employee Experience (TIDE)_, Feb 2021 &ndash; Dec 2024**<br>
+**_Co-Chair, Terminators for an Inclusive and Diverse Employee Experience (TIDE)_, Feb 2021 &ndash; Feb 2025**<br>
 TIDE is Terminus’ Diversity, Equity, and Inclusion (DEI) employee resource group, which strives to create a welcoming, safe, and inclusive workplace with a focus on Terminus’ overall culture.
 - Distribute DEI training materials to leaders and employees, such as microaggressions and unconscious bias.
 - Coordinate with HR teams to ensure all communications are inclusive and culturally sensitive.
